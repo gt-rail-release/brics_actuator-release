@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>brics_actuator</name>
+  <version>0.1.0</version>
+  <description>Messagse Defined in the BRICS Project</description>
+
+  <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
+  <author email="alexander.bubeck@ipa.fraunhofer.de">Alexander Bubeck</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/brics_actuator</url>
+  <url type="bugtracker">https://github.com/WPI-RAIL/brics_actuator/issues</url>
+  <url type="repository">https://github.com/WPI-RAIL/brics_actuator</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+</package>
