@@ -1,2 +1,3 @@
-string type  		  #smaller, greater, equal or <, >, =
+#smaller, greater, equal or <, >, =
+string type
 JointValue value

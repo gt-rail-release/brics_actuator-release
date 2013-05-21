@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>brics_actuator</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>Messagse Defined in the BRICS Project</description>
 
   <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
@@ -14,6 +14,7 @@
   <url type="repository">https://github.com/WPI-RAIL/brics_actuator</url>
 
   <buildtool_depend>catkin</buildtool_depend>
+
   <build_depend>geometry_msgs</build_depend>
   <build_depend>message_generation</build_depend>
 
