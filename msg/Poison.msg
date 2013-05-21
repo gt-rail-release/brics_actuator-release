@@ -1,3 +1,6 @@
-string originator 		# node id
-string description 		# encoding still an issue
-float32 qos			      # reliability of the channel 0..1 where 1 means healthy
+# node id
+string originator
+# encoding still an issue
+string description
+# reliability of the channel 0...1 where 1 means healthy
+float32 qos
